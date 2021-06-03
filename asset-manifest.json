@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/first-react-website/static/css/main.92964751.chunk.css",
+    "main.js": "/first-react-website/static/js/main.bead20e4.chunk.js",
+    "main.js.map": "/first-react-website/static/js/main.bead20e4.chunk.js.map",
+    "runtime-main.js": "/first-react-website/static/js/runtime-main.973d0a3d.js",
+    "runtime-main.js.map": "/first-react-website/static/js/runtime-main.973d0a3d.js.map",
+    "static/js/2.49626f49.chunk.js": "/first-react-website/static/js/2.49626f49.chunk.js",
+    "static/js/2.49626f49.chunk.js.map": "/first-react-website/static/js/2.49626f49.chunk.js.map",
+    "index.html": "/first-react-website/index.html",
+    "static/css/main.92964751.chunk.css.map": "/first-react-website/static/css/main.92964751.chunk.css.map",
+    "static/js/2.49626f49.chunk.js.LICENSE.txt": "/first-react-website/static/js/2.49626f49.chunk.js.LICENSE.txt",
+    "static/media/adrenaline1.2defcb73.jpg": "/first-react-website/static/media/adrenaline1.2defcb73.jpg",
+    "static/media/adventure1.e098facf.jpg": "/first-react-website/static/media/adventure1.e098facf.jpg",
+    "static/media/adventure2.dc6f6e05.jpg": "/first-react-website/static/media/adventure2.dc6f6e05.jpg",
+    "static/media/HeroSection.css": "/first-react-website/static/media/homepage1.0fa42419.jpg",
+    "static/media/luxury1.0f639be8.jpg": "/first-react-website/static/media/luxury1.0f639be8.jpg",
+    "static/media/mystry1.b93640f7.jpg": "/first-react-website/static/media/mystry1.b93640f7.jpg",
+    "static/media/App.css": "/first-react-website/static/media/signup1.d7cf3e74.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.973d0a3d.js",
+    "static/js/2.49626f49.chunk.js",
+    "static/css/main.92964751.chunk.css",
+    "static/js/main.bead20e4.chunk.js"
+  ]
+}
