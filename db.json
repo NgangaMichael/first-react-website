@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Space X",
+      "author": "Elon",
+      "body": "We are going to have space tourism",
+      "id": 2
+    },
+    {
+      "title": "JavaScript",
+      "author": "Michael",
+      "body": "The best language on earth",
+      "id": 3
+    },
+    {
+      "title": "Python",
+      "author": "Kimani",
+      "body": "Its an effient language to usee",
+      "id": 4
+    }
+  ]
+}
